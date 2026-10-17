@@ -2,7 +2,7 @@
 
 This analysis looks into how antidepressant prescribing in England changed between 2021 and 2025 — in terms of volume, cost, drug type, and regional variation — and what do these patterns mean for NHS planning and mental health policy
 
-***Key Findings***
+**Key Findings**
 
 **National prescription volume increased between 2021 and 2025**
 
