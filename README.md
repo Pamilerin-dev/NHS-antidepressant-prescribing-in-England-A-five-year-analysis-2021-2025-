@@ -18,7 +18,9 @@ The biggest change occurred between 2021 and 2022, when the recorded cost fell b
 This contrasts with the steady rise in prescription volume.
 What this finding means: The NHS recorded more antidepressant prescription items while spending less on the drug ingredient costs reported in this dataset. Changes in medicine prices, generic availability and the mix of prescribed drugs could potentially contribute to this pattern, but the notebook does not test those explanations.
 The cost measure is Net Ingredient Cost (NIC), as described in the notebook. It should not be interpreted as the complete cost of providing NHS prescribing services.
+
 **Sertraline was the most prescribed antidepressant and had the highest recorded cost**
+
 Sertraline hydrochloride ranked first by volume, with 115 million prescription items. Amitriptyline hydrochloride followed with 78.45 million, while citalopram hydrobromide recorded 68.03 million.Sertraline ranked first in both volume and cost. However, venlafaxine ranked second in total cost despite ranking sixth in prescription volume, with 28.83 million items.
 Vortioxetine also appeared among the ten highest-cost antidepressants, at £41.03 million, but did not appear in the top ten by volume.
 What this finding means: The antidepressants prescribed most frequently are not necessarily the medicines with the highest total expenditure. Differences in cost per item, formulations and the mix of products prescribed may help explain the rankings.
@@ -30,7 +32,9 @@ The North East and Yorkshire region recorded the highest total prescription volu
 However, the South East had the highest recorded cost per item, at £3.30, while North East and Yorkshire had the lowest, at £2.32.
 What this finding means: There are regional differences in recorded antidepressant prescribing and expenditure. These differences could reflect variations in population size, prescribing practices, medicine mix and prices.
 However, the notebook does not adjust for regional population size or differences in population health. Therefore, these figures cannot establish which region prescribes antidepressants more frequently relative to its population, or whether any regional variation is unwarranted.
+
 **Monthly prescribing patterns provide a more detailed picture**
+
 The first five monthly observations show the following:
 In these initial months, prescription volume fluctuated, reaching its highest value in March before declining in April and May. Recorded costs also fluctuated, with a marked decline between March and April.
 The notebook includes monthly line charts intended to show whether these fluctuations continue across the full five years.
