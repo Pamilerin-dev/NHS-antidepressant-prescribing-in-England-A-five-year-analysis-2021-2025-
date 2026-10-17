@@ -1,5 +1,7 @@
 # NHS-antidepressant-prescribing-in-England-A-five-year-analysis-2021-2025-
+
 This analysis looks into how antidepressant prescribing in England changed between 2021 and 2025 — in terms of volume, cost, drug type, and regional variation — and what do these patterns mean for NHS planning and mental health policy
+
 Key Findings
 **National prescription volume increased between 2021 and 2025**
 The number of antidepressant prescription items increased every year, from 82.61 million in 2021 to 94.69 million in 2025. This represents an increase of approximately 14.6% over five years.
